@@ -1,1 +1,2 @@
 # Mathematical_foundations_ml
+# Mathematical_foundations_of_machine_learning
